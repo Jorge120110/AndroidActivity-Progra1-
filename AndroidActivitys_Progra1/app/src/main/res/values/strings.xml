@@ -1,0 +1,55 @@
+<resources>
+
+    //ActivityRaiz
+    <string name="titulo_raiz">Bienvenido a la Raíz</string>
+    <string name="Texto1_raiz">Elige cualquiera de la siguientes opciones para probar las actividades</string>
+    <string name="button1_raiz">Text View Activity</string>
+    <string name="button2_raiz">Buttons Activity</string>
+    <string name="button3_raiz">Widgets Activity</string>
+    <string name="button4_raiz">Containers Activity</string>
+    <string name="tv1_raiz">Ir al TextView Activity</string>
+    <string name="tv2_raiz">Ir al Buttons Activity</string>
+    <string name="tv3_raiz">Ir al Widgets Activity</string>
+    <string name="tv4_raiz">Ir al Containers Activity</string>
+
+    //textviwes
+    <string name="app_name">AndroidActivitys_Progra1</string>
+    <string name="titulo_texto"> Text View Activity</string>
+    <string name="texto_bienvenida"> Bienvenido a la actividad de cajas de texto</string>
+    <string name="texto2_textViewActivity"> Esto es un texto de relleno por que hay que hacer mas estetica la ventana</string>
+    <string name="texto_editText1"> Escribe algo para probar</string>
+    <string name="texto_boton_volver"> Regresar </string>
+
+    //buttonactivity
+    <string name="titulo_buttoactivity"> Buttons Activity </string>
+    <string name="texto_1Buttons"> Bienvenido a la ventana de pruebas de botones </string>
+    <string name="texto_tvImageButton"> Cierra la app </string>
+    <string name="texto_tvimagenswitch"> Hola!! </string>
+    <string name="texto_tvPresentacionButtons"> En esta actividad puedes probar los botones implementados, usando funciones para salitr de la app, cambios de estado en el checkbox y el switch </string>
+    <string name="button_salidaButtons"> Regresar </string>
+
+    //widgetsactivity
+    <string name="Titulo_Widgets"> Widgets  </string>
+    <string name="Titulo_Widgets2">  Activity </string>
+    <string name="tvTexto1Widgets"> Bienvenido a la actividad de Widgets </string>
+    <string name="tvTexto2Widgets"> Mira la fecha!</string>
+    <string name="tvTexto3Widgets"> Mira la hora!</string>
+    <string name="tvRateStarText"> Ratea mi app!</string>
+    <string name="button1_raiz_widgets">Regresar</string>
+
+    //ContainersActivity
+    <string name="tvTituloContainer"> Containers Actitivy </string>
+    <string name="tvTexto1Containers"> Bienvenido a la Activity de Containers </string>
+    <string name="tvTexto2Containers"> (Me quede sin ideas) </string>
+    <string-array name="opciones">
+        <item> Selecciona un fondo</item>
+        <item> Montañas </item>
+        <item> Futurista </item>
+        <item> Cielo Azul</item>
+        <item> Hollow Knight</item>
+    </string-array>
+    <string name="tv_scroolview"> En esta Activity se muestra el uso de items como el scroll view en el que esta colocado este mismo texto, o, un Spinner para poder escoger distintos fondos para esta ventana, esto en adelante es un texto de relleno para que se pueda utilizar el scroll en el que esta colocado este texto (ignorar) 0 0 0 0 0 0 0 0 0 0 0 0 0 </string>
+    <string name="tv_scroolview2"> CardView </string>
+    <string name="tv_scroolview3"> Este es un CardView de prueba, puse un pequeño texto para mostrar su funcionamiento (me quede sin ideas)</string>
+    <string name="button_regresarContainers">Regresar</string>
+</resources>
