@@ -3,7 +3,7 @@ Jorge Mario Cano Cobon                                     0905-24-10433b
 
 Bienvenido a mi Repositorio para entrega de la tarea, "Android Activitys"
 
-<img src="./Imagenesfuente/captura1.jpg" alt="Imagen 1" width="400" height="200"/>
+<img src="./Imagenesfuente/captura1.jpg" alt="Imagen 1" width="200" height="400"/>
 
 
 ![Imagen 2](./Imagenesfuente/captura2.jpg)
