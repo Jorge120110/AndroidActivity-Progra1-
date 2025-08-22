@@ -27,14 +27,14 @@ En esta se pueden ver el uso de botones, se usan checkbox, switch y un imagebox 
   </p>
 
 ## Imagen 4:
-En esta se pueden ver el uso de botones, se usan checkbox, switch y un imagebox interactivos.
+Aca se muestra el uso de varios Widgets como, imagenes, un calendario interactivo, un reloj y un ratebar con interacciones segun la califiacion.
   
 <p align="center">
 <img src="./Imagenesfuente/captura4.jpg" alt="Imagen 4" width="200" height="400"/>
   </p>
 
 ## Imagen 5:
-En esta se pueden ver el uso de botones, se usan checkbox, switch y un imagebox interactivos.
+En esta, se muestra el uso de unos cuantos containers, se utilizan layouts y scrollview, ademas de un spinner para cambiar entre una seleccion de fondos para la pestaña. 
 <p align="center">
 <img src="./Imagenesfuente/captura5.jpg" alt="Imagen 5" width="200" height="400"/>
   </p>
